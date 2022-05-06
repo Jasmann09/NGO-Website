@@ -1,0 +1,58 @@
+
+.f,.g{
+    display: flex;
+}
+
+
+
+
+h3{
+    text-align: center;
+    padding: 1em;
+}
+img
+{
+    
+    height: 300px;
+    margin: 2em;
+
+}
+p{
+    font-size: larger;
+    justify-content: center;
+    padding: 2em;
+}
+i{
+    font-size: x-large;
+}
+.c{
+    background-color:whitesmoke ;
+    margin:2em;
+}
+
+#in{
+    padding: 3em;
+}
+.b{
+    
+    padding-left: 2em;
+    margin: 2em;
+}
+.mn{
+    background-color: rgb(102, 203, 102);
+    height: 45px;
+    width:8%
+
+}
+.counter{
+    display: flex;
+    margin-left: 1em;
+    
+    text-align: center
+}
+.a{
+    word-spacing: 2em;
+}
+.r{
+    font-size: x-large;
+}

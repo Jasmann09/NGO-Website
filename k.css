@@ -1,0 +1,32 @@
+.m{
+    display: flex;
+    flex :60%;
+    margin: 1em;
+    
+    
+}
+aside{
+    height: fit-content;
+    width: 57%;
+    padding-top: 2.8em;
+   
+}
+img{
+    width: 625px;
+    height: 50%;
+ 
+}
+h3{
+    text-align: center;
+    padding: 1em;
+}
+button{
+    margin: 2em;
+    padding: 2em;
+}
+.aj{
+    padding: 1em;
+}
+body{
+    background-color: beige;
+}
